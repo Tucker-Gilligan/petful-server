@@ -35,7 +35,6 @@ https://github.com/Tucker-Gilligan/petful-server
 ### Client Repo:
 
 https://github.com/Tucker-Gilligan/petful-client
-In the project directory, you can run:
 
 ## Tech Stacks Used
 
