@@ -17,16 +17,16 @@
     "morgan": "^1.10.0",
     "pg": "^7.18.2"
   },
-  "description": "",
+  "description": "Petful server created for Thinkful: works with Petful Client",
   "version": "1.0.0",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/-m/Petful-Server.git"
+    "url": "https://github.com/Tucker-Gilligan/petful-server"
   },
   "keywords": [],
   "engines": {
-    "node": "12.19.0"
+    "node": "12.20.1"
   },
   "author": "",
   "license": "ISC",
